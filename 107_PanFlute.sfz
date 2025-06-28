@@ -1,0 +1,174 @@
+// Sfz exported from a sf2 file with Polyphone
+// Name      : Pan Flute
+// Author    : 
+// Copyright : CC0
+// Date      : 2025/06/27
+// Comment   : A bamboo pan flute 22 pipes in G major scale.
+
+<group>
+amp_veltrack=100
+ampeg_attack=0.000999969
+ampeg_release=0.300062
+cutoff=4978
+fil_type=lpf_2p
+fil_veltrack=2400
+loop_mode=loop_continuous
+
+<region> sample=samples\B3-1.wav
+lokey=59 hikey=0
+lovel=127 hivel=81
+loop_end=28012
+loop_start=32495
+pitch_keycenter=59
+tune=-5
+
+<region> sample=samples\B3.wav
+lokey=59 hikey=0
+lovel=80 hivel=0
+loop_end=24812
+loop_start=3598
+pitch_keycenter=59
+tune=3
+
+<region> sample=samples\C4.wav
+lokey=61 hikey=60
+loop_end=25728
+loop_start=1677
+pitch_keycenter=60
+tune=-5
+
+<region> sample=samples\D4.wav
+lokey=63 hikey=62
+loop_end=4306
+loop_start=16794
+pitch_keycenter=62
+tune=-16
+
+<region> sample=samples\E4.wav
+lokey=65 hikey=64
+loop_end=19849
+loop_start=20543
+pitch_keycenter=64
+tune=-14
+
+<region> sample=samples\F#4-2.wav
+lovel=64 hivel=0
+key=66
+loop_end=29368
+loop_start=5088
+pitch_keycenter=66
+tune=16
+
+<region> sample=samples\F#4.wav
+lovel=127 hivel=65
+key=66
+loop_end=14959
+loop_start=8317
+pitch_keycenter=66
+tune=1
+
+<region> sample=samples\G4-1.wav
+lokey=68 hikey=67
+lovel=119 hivel=0
+loop_end=31322
+loop_start=26479
+pitch_keycenter=67
+tune=9
+
+<region> sample=samples\G4.wav
+lokey=68 hikey=67
+lovel=127 hivel=120
+loop_end=12443
+loop_start=27889
+pitch_keycenter=67
+tune=9
+
+<region> sample=samples\A4.wav
+lokey=70 hikey=69
+loop_end=31132
+loop_start=21141
+pitch_keycenter=69
+tune=2
+
+<region> sample=samples\B4.wav
+key=71
+loop_end=371
+loop_start=4810
+pitch_keycenter=71
+tune=8
+
+<region> sample=samples\C5.wav
+lokey=73 hikey=72
+loop_end=6913
+loop_start=3628
+pitch_keycenter=72
+tune=9
+
+<region> sample=samples\D5.wav
+lokey=75 hikey=74
+loop_end=11061
+loop_start=9208
+pitch_keycenter=74
+tune=10
+
+<region> sample=samples\E5.wav
+lokey=77 hikey=76
+loop_end=4483
+loop_start=24961
+pitch_keycenter=76
+tune=-2
+
+<region> sample=samples\F#5.wav
+key=78
+loop_end=5816
+loop_start=7956
+pitch_keycenter=78
+tune=7
+
+<region> sample=samples\G5.wav
+lokey=80 hikey=79
+pitch_keycenter=79
+
+<region> sample=samples\A5.wav
+lokey=82 hikey=81
+loop_end=8690
+loop_start=8739
+pitch_keycenter=81
+tune=7
+
+<region> sample=samples\B5.wav
+key=83
+loop_end=25644
+loop_start=31226
+pitch_keycenter=83
+tune=-4
+
+<region> sample=samples\C6-1.wav
+lokey=85 hikey=84
+lovel=98 hivel=0
+loop_end=20049
+loop_start=8040
+pitch_keycenter=84
+tune=8
+
+<region> sample=samples\C6.wav
+lokey=85 hikey=84
+lovel=127 hivel=99
+loop_end=6675
+loop_start=8222
+pitch_keycenter=84
+tune=-6
+
+<region> sample=samples\D6.wav
+lokey=87 hikey=86
+loop_end=32002
+loop_start=8309
+pitch_keycenter=86
+tune=-6
+
+<region> sample=samples\E6.wav
+lokey=127 hikey=88
+loop_end=812
+loop_start=11054
+pitch_keycenter=88
+tune=-19
